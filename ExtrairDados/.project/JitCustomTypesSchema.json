@@ -1,0 +1,59 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "NExtractDataGeneric`1_3",
+        "hash": "NExtractDataGeneric`1_3|DataTable|XkedDoSpBRYjTz5uSsuWpDvD3wZl9uMJFxpKagd1nM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Column-0",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Account Name",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Country",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Opportunity Owner",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Stage",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Quantity",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Unit Sales Price",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total Price",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "List Price",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "NExtractDataGeneric`1_3|DataTable|0uXA1Ph1FaNCUqlaCKHSbRUqyJmRTEjTDjZ4kp0BDE",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    }
+  ]
+}

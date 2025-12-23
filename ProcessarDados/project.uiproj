@@ -1,0 +1,6 @@
+{
+  "Name": "ProcessarDados",
+  "ProjectType": "Process",
+  "Description": "Processo responsável por analsar os dados, filtrar por condicional e adicionar ao Forms.",
+  "MainFile": "Main.xaml"
+}

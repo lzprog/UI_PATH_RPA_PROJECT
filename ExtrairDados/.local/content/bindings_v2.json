@@ -1,0 +1,27 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "activityDisplayName": "AddItemsToOrchQueue",
+      "activityId": "BulkAddQueueItems_1",
+      "resource": "queue",
+      "key": "7eonardoct@gmail.com's workspace.FilaOportunidades",
+      "id": "queue7eonardoct@gmail.com's workspace.FilaOportunidades7eonardoct@gmail.com's workspaceFalseFilaOportunidadesFalse",
+      "value": {
+        "folderPath": {
+          "defaultValue": "7eonardoct@gmail.com's workspace",
+          "isExpression": false,
+          "displayName": "Caminho da pasta"
+        },
+        "name": {
+          "defaultValue": "FilaOportunidades",
+          "isExpression": false,
+          "displayName": "Nome de fila"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "ExtrairDados",
+  "ProjectType": "Process",
+  "Description": "Processo responsável por se conectar ao site e extrair os dados.",
+  "MainFile": "Main.xaml"
+}
